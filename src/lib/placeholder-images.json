@@ -1,0 +1,46 @@
+{
+  "placeholderImages": [
+    {
+      "id": "hero-background",
+      "description": "A stunning view of a tropical beach from a balcony.",
+      "imageUrl": "https://images.unsplash.com/photo-1546536582-cdabb1daf509?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw4fHx0cm9waWNhbCUyMGJlYWNofGVufDB8fHx8MTc2MzU5MzAxMXww&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "tropical beach"
+    },
+    {
+      "id": "hotel-1",
+      "description": "Modern hotel room with a city view.",
+      "imageUrl": "https://images.unsplash.com/photo-1590490360182-c33d57733427?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw4fHxob3RlbCUyMHJvb218ZW58MHx8fHwxNzYzNTIzNDQwfDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "hotel room"
+    },
+    {
+      "id": "hotel-2",
+      "description": "Luxury resort pool area.",
+      "imageUrl": "https://images.unsplash.com/photo-1722409195473-d322e99621e3?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwxMHx8cmVzb3J0JTIwcG9vbHxlbnwwfHx8fDE3NjM1MTM2ODd8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "resort pool"
+    },
+    {
+      "id": "hotel-3",
+      "description": "Cozy hotel lobby with fireplace.",
+      "imageUrl": "https://images.unsplash.com/photo-1611048267451-e6ed903d4a38?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw1fHxob3RlbCUyMGxvYmJ5fGVufDB8fHx8MTc2MzU1Mjk2M3ww&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "hotel lobby"
+    },
+    {
+      "id": "destination-1",
+      "description": "Santorini with its white buildings and blue domes.",
+      "imageUrl": "https://images.unsplash.com/photo-1613395877344-13d4a8e0d49e?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwxfHxzYW50b3JpbmklMjBncmVlY2V8ZW58MHx8fHwxNzYzNTAyMzA2fDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "santorini greece"
+    },
+    {
+      "id": "destination-2",
+      "description": "Kyoto temple in autumn.",
+      "imageUrl": "https://images.unsplash.com/photo-1610265082060-7234c9de51ab?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw5fHxreW90byUyMHRlbXBsZXxlbnwwfHx8fDE3NjM1NDQzMjl8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "kyoto temple"
+    },
+    {
+      "id": "destination-3",
+      "description": "The northern lights over a snowy landscape.",
+      "imageUrl": "https://images.unsplash.com/photo-1483347756197-71ef80e95f73?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwxfHxub3J0aGVybiUyMGxpZ2h0c3xlbnwwfHx8fDE3NjM1OTMwMTB8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "northern lights"
+    }
+  ]
+}
